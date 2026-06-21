@@ -7,9 +7,12 @@ Desafio consiste em:
     Ler um sensor de temperatura;
   </li>
   <li>
-     Quando a temperatura passar de 30º C acionar um ventilador (representado pelo Motor)
+     Quando a temperatura passar de 30º C acionar um ventilador (representado pelo Motor);
   </li>
   <li>
-    Quando a temperatura passar de 50ºC ligar um led e o alarme 
+    Quando a temperatura passar de 50ºC ligar um led e o alarme;
   </li>
 </ul>
+<a href="https://www.tinkercad.com/things/9PnPtQhMKrb-desafiodio1?sharecode=zQMhx4iJylvxa1XmefA0vomoeZN-kqLH-IrxdnrJg9Y" target="_blank">
+Simulção
+</a>
